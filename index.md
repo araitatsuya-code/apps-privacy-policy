@@ -64,3 +64,5 @@
 - メール: araitatsuya.code@gmail.com
 
 最終更新日: 2025年5月8日
+
+[利用規約はこちら](terms.html)
